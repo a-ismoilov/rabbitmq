@@ -1,4 +1,4 @@
-module github.com/a-ismoilov/rabbitmq/send-new-task
+module github.com/a-ismoilov/rabbitmq/Task-Queue/send-new-task
 
 go 1.20
 

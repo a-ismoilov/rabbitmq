@@ -1,4 +1,4 @@
-module github.com/a-ismoilov/RabbitMQ-Hello-World/send
+module github.com/a-ismoilov/rabbitmq/Hello-World/send
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/a-ismoilov/rabbitmq/consume-new-task
+module github.com/a-ismoilov/rabbitmq/Task-Queue/consume-new-task
 
 go 1.20
 

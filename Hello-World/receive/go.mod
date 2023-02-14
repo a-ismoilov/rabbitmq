@@ -1,4 +1,4 @@
-module github.com/a-ismoilov/RabbitMQ-Hello-World/receive
+module github.com/a-ismoilov/rabbitmq/Hello-World/receive
 
 go 1.18
 
